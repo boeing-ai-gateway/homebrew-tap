@@ -1,10 +1,10 @@
-# Obot Tap
+# Boeing Tap
 
 ## How do I install these formulae?
 
-`brew install obot-platform/tap/<formula>`
+`brew install boeing-ai-gateway/tap/<formula>`
 
-Or `brew tap obot-platform/tap` and then `brew install <formula>`.
+Or `brew tap boeing-ai-gateway/tap` and then `brew install <formula>`.
 
 ## Documentation
 
